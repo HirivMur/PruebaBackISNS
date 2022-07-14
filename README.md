@@ -25,6 +25,7 @@ $ pip install requests
 (mac)
 $ python3 main.py
 
+(windows)
 $ python main.py
 ````
 
@@ -34,5 +35,6 @@ $ python main.py
 (mac)
 $ python3 -m pytest 
 
+(windows)
 $ pytest 
 ````
